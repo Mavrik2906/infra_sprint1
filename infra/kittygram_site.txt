@@ -1,0 +1,6 @@
+IP: 84.252.134.225;
+name_taski: https://martstudy.gotdns.ch;
+name_kittygram: https://kittygrammstudy.duckdns.org;
+login: Admin;
+password: 12345Vfrbgt!;
+ 
